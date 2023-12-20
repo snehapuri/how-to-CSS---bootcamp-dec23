@@ -1,0 +1,22 @@
+.box {
+    background-color: #1DE592;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 45px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    border-radius: 8px;
+    width: 500px;
+    margin: 20px auto;
+}
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: center;
+    border-radius: 40px;
+    border: none;
+    padding: 8px 30px;
+    margin-top: 8px;
+}
+p {
+    font-size: 14px;
+}
