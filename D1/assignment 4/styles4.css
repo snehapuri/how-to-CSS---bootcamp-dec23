@@ -1,0 +1,52 @@
+.box {
+    text-align: center;
+    font-family: roboto,arial,sans-serif;
+    width: 350px;
+    border-top: 1px solid black;
+    padding-top: 40px;
+    margin: 30px auto;
+}
+img {
+    width: 45%;
+    margin-bottom: 10px;
+}
+input {
+    border: 1px solid lightgray;
+    border-radius: 12px;
+    padding: 14px 60px;
+}
+.mail {
+    margin-bottom: 12px;
+}
+.pass {
+    margin-bottom: 25px;
+}
+input[type="text"]::placeholder {     
+    text-align: left;  
+}
+button {
+    background-color: black;
+    color: white;
+    font-family: roboto,arial,sans-serif;
+    padding: 12px 30px;
+    border-radius: 20px;
+    border: none;
+    font-size: 12px;
+}
+.txt {
+    line-height: 130%;
+    margin-top: 30px;
+    font-size: 12px;
+    color: gray;
+}
+.foot {
+    text-align: center;
+    font-size: 11px;
+    color: gray;
+    font-family: roboto,arial,sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+a {
+    color: black;
+}
